@@ -1,0 +1,1 @@
+{"trial_id": "0", "hyperparameters": {"space": [], "values": {}}, "metrics": {"metrics": {"loss": {"direction": "min", "observations": [{"value": [0.08063928037881851], "step": 0}]}}}, "score": 0.08063928037881851, "best_step": 0, "status": "COMPLETED"}
